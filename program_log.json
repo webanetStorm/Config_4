@@ -1,0 +1,34 @@
+[
+    {
+        "command": "LOAD_CONST",
+        "operands": [
+            "3",
+            "228"
+        ],
+        "instruction": "831c0000"
+    },
+    {
+        "command": "LOAD_MEM",
+        "operands": [
+            "13"
+        ],
+        "instruction": "0d000000"
+    },
+    {
+        "command": "STORE_MEM",
+        "operands": [
+            "19",
+            "473"
+        ],
+        "instruction": "333b0000"
+    },
+    {
+        "command": "MIN",
+        "operands": [
+            "27",
+            "626",
+            "502"
+        ],
+        "instruction": "5b4eb00f"
+    }
+]
